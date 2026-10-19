@@ -29,7 +29,7 @@ The 95% VaR identifies the loss threshold exceeded on only 5% of days. CVaR (Exp
 
 ## Key Findings
 - The max Sharpe ratio portfolio allocated most heavily to GOOGL stock which reflected its risk-adjusted outperformance over the sample period
-- Daily returns showed negative excess kurtosis and fat tails which rejects normality (p<0.001) and caused the parametric VaR to overestimate tail risk relative to historical VaR
+- Daily returns showed negative excess kurtosis which rejects normality (p<0.001) and caused the parametric VaR to overestimate tail risk relative to historical VaR
 - Monte Carlo simulation produced a 14.4% probability of loss over a one year period and a median terminal value of $16300 from the initial $10000 portfolio
 
 ## Installation
